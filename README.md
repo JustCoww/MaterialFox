@@ -1,8 +1,9 @@
 # MaterialFox
 *A Material Design-inspired userChrome.css theme for Firefox*
 
-![Preview](https://user-images.githubusercontent.com/5405629/45172944-21d91900-b24a-11e8-8bc5-03814121b0de.png)
 This theme is powered by blood, sweat, and coffee. If you like it, please consider helping out to support its continued development.
+
+![image](https://user-images.githubusercontent.com/68345611/167287679-1b049cb3-18a8-42e8-a1f7-41bd00b5e2e8.png)
 
 [![Buy me a coffee](https://svgshare.com/i/8Yd.svg)](https://www.buymeacoffee.com/n4ho5QX2l)
 
