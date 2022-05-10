@@ -1,4 +1,5 @@
 MaterialFox fork to make it worky on linux.
+Light mode has high chances to be not working, i didn't test :)
 
 # MaterialFox
 *A Material Design-inspired userChrome.css theme for Firefox*
