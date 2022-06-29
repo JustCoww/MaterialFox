@@ -150,10 +150,7 @@
 :root
 {
 	--tab-separator-opacity: .35 !important;
-
-	--toolbar-field-background-color: #1c1b22 !important;
-	--toolbar-field-hover-background-color: #343240 !important;
-	--toolbar-field-focus-background-color: #1c1b22 !important;
+	--toolbar-field-hover-background-color: #303030 !important;
 }
 
 :root:-moz-any(:-moz-lwtheme-brighttext, [privatebrowsingmode=temporary])
